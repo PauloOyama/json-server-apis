@@ -1,0 +1,29 @@
+{
+    "data": {
+        "id": 1,
+        "name": "Angmar",
+        "installment_value": 540.00,
+        "installment_quantity": 12,
+        "seller": "The Misty Moutains",
+        "max_discount": 0.1,
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR42ETRVvP5j636RVB1M0hSpAp78wH_EPdTYQ&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3mNrxUqSPW6jUj92d7gZTL7Q9ehe_l3vimg&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDSmwjHZDjQYAlA3Hs0_Par7PrgeWmfziAw&usqp=CAU"
+        ],
+        "video": "https://www.youtube.com/watch?v=AdQ3JDLlmPI",
+        "documents": [
+            {
+                "name": "Documento 01",
+                "value": "Doc01"
+            }
+        ],
+        "favorite": true,
+        "details": [
+            {
+                "name": "Categoria",
+                "value": "Novilhas Prenha"
+            }
+        ]
+    }
+}

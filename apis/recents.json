@@ -2,12 +2,39 @@
     "recents": [
         {
             "id": 1,
-            "name": "",
-            "installment_value": 625.00,
+            "name": "LOTE 03 - FROZEN WATERFALL",
+            "installment_value": 527.00,
             "installment_quantity": 24,
-            "seller": "",
+            "seller": "ARCHELAND | Granja CCPR",
             "max_discount": 0.1,
-            "image_url": ""
+            "image_url": "https://www.economist.com/sites/default/files/images/2021/09/articles/main/20210918_stp504.jpg"
+        },
+        {
+            "id": 2,
+            "name": "LOTE 11 - THE MAZE",
+            "installment_value": 600.00,
+            "installment_quantity": 12,
+            "seller": "ARCHELAND | Granja CCPR",
+            "max_discount": 0.2,
+            "image_url": "https://www.economist.com/sites/default/files/images/2021/09/articles/main/20210918_stp504.jpg"
+        },
+        {
+            "id": 3,
+            "name": "LOTE 09 - LABS",
+            "installment_value": 500.00,
+            "installment_quantity": 10,
+            "seller": "ARCHELAND | Granja CCPR",
+            "max_discount": 0.3,
+            "image_url": "https://www.economist.com/sites/default/files/images/2021/09/articles/main/20210918_stp504.jpg"
+        },
+        {
+            "id": 4,
+            "name": "LOTE 23 - CITY SKYLINE",
+            "installment_value": 630.00,
+            "installment_quantity": 9,
+            "seller": "ARCHELAND | Granja CCPR",
+            "max_discount": 0.15,
+            "image_url": "https://www.economist.com/sites/default/files/images/2021/09/articles/main/20210918_stp504.jpg"
         }
     ]
 }

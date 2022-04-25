@@ -2,39 +2,39 @@
     "supplier_historic": [
         {
             "id": 1,
-            "name": "",
+            "name": "LOTE 10 - CAIR PARAVEL",
             "installment_value": 625.00,
             "installment_quantity": 24,
-            "seller": "",
+            "seller": "NARNIA | Granja CCPR",
             "max_discount": 0.1,
-            "image_url": ""
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJYFNBrqurBvwWHuN8tgYOlPmS4wnf-fUmsA&usqp=CAU"
         },
         {
             "id": 2,
-            "name": "",
+            "name": "LOTE 23 - ARCHELAND",
             "installment_value": 625.00,
             "installment_quantity": 24,
-            "seller": "",
+            "seller": "ARNOR | Granja CCPR",
             "max_discount": 0.1,
-            "image_url": ""
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9EA6k8NwBqVthQ2594OPZSTCkDOKi3f7UA&usqp=CAU"
         },
         {
             "id": 3,
-            "name": "",
+            "name": "LOTE 12 - GALMA",
             "installment_value": 625.00,
             "installment_quantity": 24,
-            "seller": "",
+            "seller": "RHOVANION | Granja CCPR",
             "max_discount": 0.1,
-            "image_url": ""
+            "image_url": "https://www.economist.com/sites/default/files/images/2021/09/articles/main/20210918_stp504.jpg"
         },
         {
             "id": 4,
-            "name": "",
+            "name": "LOTE 03 - THE LAMP POST",
             "installment_value": 625.00,
             "installment_quantity": 24,
-            "seller": "",
+            "seller": "ARCOO | Granja CCPR",
             "max_discount": 0.1,
-            "image_url": ""
+            "image_url": "https://www.economist.com/sites/default/files/images/2021/09/articles/main/20210918_stp504.jpg"
         }
     ]
 }

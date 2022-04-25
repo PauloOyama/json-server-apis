@@ -2,12 +2,12 @@
     "saved": [
         {
             "id": 1,
-            "name": "",
+            "name": "LOTE 03 - ROCA DE CIMA",
             "installment_value": 625.00,
             "installment_quantity": 24,
-            "seller": "",
+            "seller": "ARCOO | Granja CCPR",
             "max_discount": 0.1,
-            "image_url": ""
+            "image_url": "https://www.economist.com/sites/default/files/images/2021/09/articles/main/20210918_stp504.jpg"
         }
     ]
 }
