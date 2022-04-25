@@ -1,0 +1,35 @@
+{
+    "approved": [
+        {
+            "id": 1,
+            "name": "",
+            "installment_value": 625.00,
+            "installment_quantity": 24,
+            "seller": "",
+            "max_discount": 0.1,
+            "image_url": ""
+        }
+    ],
+    "pending": [
+        {
+            "id": 1,
+            "name": "",
+            "installment_value": 625.00,
+            "installment_quantity": 24,
+            "seller": "",
+            "max_discount": 0.1,
+            "image_url": ""
+        }
+    ],
+    "refused": [
+        {
+            "id": 1,
+            "name": "",
+            "installment_value": 625.00,
+            "installment_quantity": 24,
+            "seller": "",
+            "max_discount": 0.1,
+            "image_url": ""
+        }
+    ]
+}

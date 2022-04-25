@@ -1,0 +1,40 @@
+{
+    "supplier_historic": [
+        {
+            "id": 1,
+            "name": "",
+            "installment_value": 625.00,
+            "installment_quantity": 24,
+            "seller": "",
+            "max_discount": 0.1,
+            "image_url": ""
+        },
+        {
+            "id": 2,
+            "name": "",
+            "installment_value": 625.00,
+            "installment_quantity": 24,
+            "seller": "",
+            "max_discount": 0.1,
+            "image_url": ""
+        },
+        {
+            "id": 3,
+            "name": "",
+            "installment_value": 625.00,
+            "installment_quantity": 24,
+            "seller": "",
+            "max_discount": 0.1,
+            "image_url": ""
+        },
+        {
+            "id": 4,
+            "name": "",
+            "installment_value": 625.00,
+            "installment_quantity": 24,
+            "seller": "",
+            "max_discount": 0.1,
+            "image_url": ""
+        }
+    ]
+}
